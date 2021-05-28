@@ -1,3 +1,6 @@
-This repository contains code and notes from various kaggle competitions. Depending on the competition rules the underlying licences vary. For each competiton there is a seperate folder named like **kaggle-<YYYY>-<COMP_NAME>**. Please refer the to the LICENSE files in these competition folders for the underlying files.
+This repository contains code and notes from various kaggle competitions.
+Depending on the competition rules the underlying licences vary. 
+For each competiton there is a seperate folder named like **kaggle-<YYYY>-<COMP_NAME>**. 
+Please refer the to the LICENSE files in these competition folders for the underlying files.
 
 
